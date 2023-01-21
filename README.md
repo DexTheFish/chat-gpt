@@ -1,6 +1,6 @@
 # To-Do List App with Angular and ChatGPT
 
-This project is a to-do list app that utilizes the power of ChatGPT, a large language model by OpenAI, to make adding, editing, and completing tasks more natural and intuitive.
+This project is a to-do list app that utilizes the power of ChatGPT, a large language model by OpenAI, to make adding, editing, and completing tasks more natural and intuitive. Apart from this sentence and some other slight changes, the entire readme file was generated using ChatGPT
 
 ## Getting Started
 
